@@ -1,0 +1,9 @@
+# Python 3.11. mediapipe 0.10.14 dipin: masih punya API mp.solutions.hands/pose,
+# dan menarik opencv-contrib-python sendiri (jangan pasang opencv-python lain bersamaan).
+mediapipe==0.10.14
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+# Aplikasi
+onnxruntime==1.20.1
+PySide6==6.8.1
+pyttsx3==2.98

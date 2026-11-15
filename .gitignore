@@ -1,0 +1,12 @@
+.venv/
+.data/
+__pycache__/
+build/
+dist/
+data/processed/extract_stdout.log
+bisindo-model/
+bisindo-model.zip
+.DS_Store
+findmy/
+.cache/
+data/processed/features.py
